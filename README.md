@@ -1,5 +1,8 @@
 stable-marriage
 ===============
+Created by: Brandon Wong
+Creation Date: 6/2013 
+
 Source File is labeled Matching.java
 Input Files are labeled with the .in extention
 
